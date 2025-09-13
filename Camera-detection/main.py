@@ -273,4 +273,4 @@ if __name__ == '__main__':
     run_pipeline(args.video, args.calib, args.out, weights=args.weights, display=args.display)
 
 # ''' To run:
-# python main.py --video "C:\Users\bhada\Downloads\1.mp4" --weights "yolo-weights\best.pt" --display '''
+# python main.py --video "Video_path" --weights "yolo_model_path" --display '''
