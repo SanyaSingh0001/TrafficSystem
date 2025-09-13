@@ -51,7 +51,7 @@ Installation & Setup
 
 1. Clone the repo
    ```bash
-   git clone https:https://github.com/SanyaSingh0001/TrafficSystem
+   git clone https://github.com/SanyaSingh0001/TrafficSystem
    cd TrafficSystem
    ```
 2. Install Python dependencies
